@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Simón Alexander</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Venezuela</h3>
+<h3 align="center">Un apasionado programador, diseñador y desarrollador frontend de Venezuela</h3>
 
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="left">
