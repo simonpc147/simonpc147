@@ -30,11 +30,3 @@ Soy autodidacta. Cuando algo despierta mi curiosidad, lo estudio, hago preguntas
 
 > “Y todo lo que hagáis, hacedlo de corazón.”  
 > Colosenses 3:23
-
-### Tecnologías
-
-```text
-JavaScript · TypeScript · PHP · Node.js
-Angular · HTML · CSS · Tailwind CSS
-MySQL · Firebase · Git · Figma
-IA generativa · Agentes · Automatización
